@@ -1,0 +1,10 @@
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/EmployeeRepository.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/SkillsApplication.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/EmployeeController.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/exceptions/CustomExceptionHandler.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/events/EmployeeEventType.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/events/EmployeeEvent.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/Employee.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/events/EventsProcessor.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/EmployeeManager.java
+/home/mstepanov/Documents/openwise/skills/src/main/java/main/company/exceptions/ErrorResponse.java
