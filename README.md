@@ -1,4 +1,4 @@
-# sample_project
+## Spring based simple project 
 ---
-Docker based, really simple project. 
+The purpose is to test configuration of a docker.
 Spring, events, global exception handling, jpa.
